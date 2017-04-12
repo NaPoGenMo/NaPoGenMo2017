@@ -18,11 +18,11 @@ Repeat.
 
 The only rule is that you share at least one poem  and also your source code at the end.
 
-The source code does not have to be licensed in a particular way, so long as you share it. The code itself does not need to be on GitHub, either. I'm just using this repo as a place to organize the community.
+The source code does not have to be licensed in a particular way, so long as you share it. The code itself does not need to be on GitHub, either. We're just using this repo as a place to organize the community.
 
-The "poem" is defined however you want. It could be 49,999 repetitions of the word "meow". It could literally grab a random poem from Project Gutenberg. It doesn't matter, as long as it's < 50K words (since 50K+ words would [be a novel](https://github.com/NaNoGenMo/2016).
+The "poem" is defined however you want. It could be 49,999 repetitions of the word "meow". It could literally grab a random poem from Project Gutenberg. It doesn't matter, as long as it's < 50K words (since 50K+ words would [be a novel](https://github.com/NaNoGenMo/2016)).
 
-Please try to respect copyright. I'm not going to police it, as ultimately it's on your head if you want to just copy/paste a Allen Ginsberg Poem or whatever, but the most useful/interesting implementations are going to be ones that don't engender lawsuits.
+Please try to respect copyright. I'm not going to police it, as ultimately it's on your head if you want to just copy/paste an Allen Ginsberg poem or whatever, but the most useful/interesting implementations are going to be ones that don't engender lawsuits.
 
 This activity starts at 12:01am GMT on Apr 1st and ends at 12:01am GMT May 1st.
 
